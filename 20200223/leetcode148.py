@@ -30,4 +30,33 @@ class Solution:
         right = self.sortList(mid)
         return merge(left, right)
 
-# 快排实现
+# 快排实现（超出时间限制？）
+class Solution2:
+    def sortList(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+
+        def partition(begin, end):
+            pivot = p1 = begin
+            p2 = p1.next
+            while p2 != end:
+                if p2.val < pivot.val:
+                    p1 = p1.next
+                    tmp = p2.val
+                    p2.val = p1.val
+                    p1.val = tmp
+                p2 = p2.next
+            tmp = pivot.val
+            pivot.val = p1.val
+            p1.val = tmp
+            return p1
+
+        def quickSort(begin, end):
+            if begin == end:
+                return
+            pNode = partition(begin, end)
+            quickSort(begin, pNode)
+            quickSort(pNode.next, end)
+
+        quickSort(head, None)
+        return head
