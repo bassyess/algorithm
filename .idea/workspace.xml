@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcb1a6cb-8dba-4154-8492-9950fdd6c5eb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200222/quicksort.py" beforeDir="false" afterPath="$PROJECT_DIR$/20200222/quicksort.py" afterDir="false" />
-    </list>
+    <list default="true" id="dcb1a6cb-8dba-4154-8492-9950fdd6c5eb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +12,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/algorithm$heapSort.coverage" NAME="heapSort Coverage Results" MODIFIED="1582425010466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20200222" />
     <SUITE FILE_PATH="coverage/algorithm$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1582449965251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20200222" />
+    <SUITE FILE_PATH="coverage/algorithm$leetcode300.coverage" NAME="leetcode300 Coverage Results" MODIFIED="1582462045547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20200223" />
     <SUITE FILE_PATH="coverage/algorithm$mergeSort.coverage" NAME="mergeSort Coverage Results" MODIFIED="1582378612374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20200222" />
   </component>
   <component name="FileEditorManager">
@@ -55,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode912.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leetcode912.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20200223/leetcode912.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="162">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -67,8 +65,26 @@
       <file leaf-file-name="leetcode148.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20200223/leetcode148.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            <state relative-caret-position="951">
+              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20200223/leetcode5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode300.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20200223/leetcode300.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -101,9 +117,11 @@
         <option value="$PROJECT_DIR$/20200222/mergeSort.py" />
         <option value="$PROJECT_DIR$/20200222/leetcode88.py" />
         <option value="$PROJECT_DIR$/20200222/heapSort.py" />
-        <option value="$PROJECT_DIR$/20200223/leetcode148.py" />
         <option value="$PROJECT_DIR$/20200222/quicksort.py" />
         <option value="$PROJECT_DIR$/20200223/leetcode912.py" />
+        <option value="$PROJECT_DIR$/20200223/leetcode148.py" />
+        <option value="$PROJECT_DIR$/20200223/leetcode5.py" />
+        <option value="$PROJECT_DIR$/20200223/leetcode300.py" />
       </list>
     </option>
   </component>
@@ -116,7 +134,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="481" />
+    <option name="y" value="19" />
     <option name="width" value="779" />
     <option name="height" value="728" />
   </component>
@@ -167,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quicksort">
+  <component name="RunManager" selected="Python.leetcode300">
     <configuration name="heapSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,6 +202,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20200222/heapSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="leetcode300" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20200223" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20200223/leetcode300.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,9 +268,11 @@
       <item itemvalue="Python.mergeSort" />
       <item itemvalue="Python.quicksort" />
       <item itemvalue="Python.heapSort" />
+      <item itemvalue="Python.leetcode300" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leetcode300" />
         <item itemvalue="Python.quicksort" />
         <item itemvalue="Python.heapSort" />
         <item itemvalue="Python.mergeSort" />
@@ -252,18 +293,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="779" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36271188" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35313532" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23087622" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12556732" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -330,13 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20200223/leetcode148.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20200222/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -346,8 +380,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20200223/leetcode912.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="162">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200223/leetcode148.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="951">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200223/leetcode5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200223/leetcode300.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
