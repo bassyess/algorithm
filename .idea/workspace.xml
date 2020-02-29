@@ -19,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="checkNumberIsMultipleOf3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20200225/checkNumberIsMultipleOf3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiplyBy7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20200225/multiplyBy7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="leetcode912.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20200223/leetcode912.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,11 +28,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode148.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20200223/leetcode148.py">
+      <file leaf-file-name="mergeSort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20200222/mergeSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            <state relative-caret-position="425">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode658.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20200228/leetcode658.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode52.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20200229/leetcode52.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode162.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20200228/leetcode162.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -82,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode3.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leetcode3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20200226/leetcode3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="50">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -96,15 +105,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-175">
               <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode152.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20200226/leetcode152.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -139,6 +139,9 @@
         <option value="$PROJECT_DIR$/20200226/leetcode322.py" />
         <option value="$PROJECT_DIR$/20200226/leetcode15.py" />
         <option value="$PROJECT_DIR$/20200226/leetcode3.py" />
+        <option value="$PROJECT_DIR$/20200228/leetcode162.py" />
+        <option value="$PROJECT_DIR$/20200228/leetcode658.py" />
+        <option value="$PROJECT_DIR$/20200229/leetcode52.py" />
       </list>
     </option>
   </component>
@@ -151,7 +154,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="592" />
     <option name="y" value="55" />
     <option name="width" value="779" />
@@ -172,7 +175,7 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="20200226" type="462c0819:PsiDirectoryNode" />
+              <item name="20200222" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,7 +186,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simple-baseline" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -326,7 +329,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="592" y="55" width="779" height="728" extended-state="1" />
+    <frame x="592" y="55" width="779" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -460,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20200222/mergeSort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" selection-start-line="28" selection-end-line="39" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20200222/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -539,8 +535,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20200226/leetcode3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="50">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200228/leetcode162.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200222/mergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200228/leetcode658.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20200229/leetcode52.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
